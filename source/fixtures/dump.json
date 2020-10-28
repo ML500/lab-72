@@ -1,0 +1,188 @@
+[
+{
+  "model": "webapp.quote",
+  "pk": 1,
+  "fields": {
+    "text": "Quote_1",
+    "author": "author",
+    "email": "email@mail.com",
+    "rating": -1,
+    "status": "new",
+    "created_at": "2020-10-23T08:39:49.374Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 2,
+  "fields": {
+    "text": "Quote_2",
+    "author": "author_2",
+    "email": "email@mail.com",
+    "rating": -6,
+    "status": "new",
+    "created_at": "2020-10-23T08:40:02.522Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 3,
+  "fields": {
+    "text": "privet",
+    "author": "privet",
+    "email": "asd@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T09:37:49.596Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 4,
+  "fields": {
+    "text": "asd",
+    "author": "as",
+    "email": "asd@mail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T09:39:59.434Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 5,
+  "fields": {
+    "text": "asd",
+    "author": "asd",
+    "email": "as@gsd.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T09:41:14.542Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 6,
+  "fields": {
+    "text": "vefver",
+    "author": "fdvfdvdf",
+    "email": "vasya@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:53:08.024Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 7,
+  "fields": {
+    "text": "vefver",
+    "author": "fdvfdvdf",
+    "email": "vasya@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:53:16.989Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 8,
+  "fields": {
+    "text": "vefver",
+    "author": "fdvfdvdf",
+    "email": "vasya@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:53:53.501Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 9,
+  "fields": {
+    "text": "c fd  fd",
+    "author": "fd fd",
+    "email": "emilrakaev@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:54:05.535Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 10,
+  "fields": {
+    "text": "c fd  fd",
+    "author": "fd fd",
+    "email": "emilrakaev@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:56:39.823Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 11,
+  "fields": {
+    "text": "cx",
+    "author": "cx",
+    "email": "guest@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:56:50.574Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 12,
+  "fields": {
+    "text": "fd",
+    "author": "fdc f",
+    "email": "guest@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T10:57:20.919Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 13,
+  "fields": {
+    "text": "gbf",
+    "author": "bgf",
+    "email": "emilrakaev@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T11:26:56.313Z"
+  }
+},
+{
+  "model": "webapp.quote",
+  "pk": 14,
+  "fields": {
+    "text": "cfd",
+    "author": "cd",
+    "email": "emilrakaev@gmail.com",
+    "rating": 0,
+    "status": "new",
+    "created_at": "2020-10-28T11:29:01.969Z"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$KGvwtdNn57BN$lwOuWlA88znoV3D2dNEKUo5pL2dS9EaVP2XaCfoCgvU=",
+    "last_login": "2020-10-28T10:08:23.515Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-10-23T08:42:57.664Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

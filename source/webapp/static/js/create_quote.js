@@ -1,24 +1,3 @@
-// const BASE_URL = 'http://localhost:8000/';
-// const BASE_API_URL = BASE_URL + 'api/';
-//
-// async function addQuote(event) {
-//     event.preventDefault();
-//     let response = await makeRequest(BASE_API_URL + 'quote/create/', 'POST', {
-//         text: document.getElementById('id_text').value,
-//         author: document.getElementById('id_author').value,
-//         email: document.getElementById('id_email').value,
-//     });
-//     let data = await response.json();
-//     console.log(data.pk);
-//     window.location.href = `${BASE_URL}quote/${data.pk}/`;
-// }
-//
-//
-// window.addEventListener('load', function() {
-//     const form = document.forms['quote_create_form'];
-//     form.onsubmit = addQuote;
-// });
-
 
 window.onload = async function() {
     let add = document.getElementById('add');
