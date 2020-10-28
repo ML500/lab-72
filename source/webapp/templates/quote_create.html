@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block title %}Create{% endblock %}
+{% block content %}
+    <h1>Create Quote</h1>
+
+    {% url "quote_create" as action_url %}
+    {% include 'partial/form.html' with action_url=action_url form_method='post' %}
+
+{% endblock %}
+{% block scripts %}
+    <script type="application/javascript" src="{% static "js/create_quote.js" %}"></script>
+{% endblock %}
